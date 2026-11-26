@@ -12,7 +12,9 @@ German language teaching · German politics and foreign policy, with a focus on 
 
 ## Profile
 
-Sun Jiahui is Lecturer and MA supervisor at the School of German Studies, Beijing Foreign Studies University (BFSU). She completed her BA, MA and PhD in German Language and Literature at BFSU (PhD conferred in June 2018) and joined the faculty in July 2018. She teaches undergraduate Comprehensive German. Her research centres on German politics and foreign policy, in particular Germany's relations with Central and Eastern Europe — above all German–Polish relations and the Visegrád Group — as well as reconciliation in European integration and German language teaching.
+Sun Jiahui is Lecturer and MA supervisor at the School of German Studies, Beijing Foreign Studies University (BFSU). 
+She completed her BA, MA and PhD in German Language and Literature at BFSU (PhD conferred in June 2018) and joined the faculty in July 2018. She teaches undergraduate Comprehensive German. 
+Her research centres on German politics and foreign policy, in particular Germany's relations with Central and Eastern Europe — above all German–Polish relations and the Visegrád Group — as well as reconciliation in European integration and German language teaching.
 
 ## Education
 
@@ -48,15 +50,8 @@ Sun Jiahui is Lecturer and MA supervisor at the School of German Studies, Beijin
 
 | Academic Year | Courses | Class Advisor |
 | --- | --- | --- |
-| 2018/19 | Comprehensive German I, Comprehensive German II | First-year class advisor |
-| 2019/20 | Comprehensive German I, Comprehensive German II | — |
-| 2020/21 | Comprehensive German I, Comprehensive German II | — |
-| 2021/22 | Comprehensive German III, Comprehensive German IV | Second-year class advisor |
-| 2022/23 | Comprehensive German III, Comprehensive German IV | Second-year class advisor |
-| 2023/24 | Comprehensive German III, Comprehensive German IV | Second-year class advisor |
-| 2024/25 | Comprehensive German IV | Second-year class advisor |
-| 2025/26 | Comprehensive German III, Comprehensive German IV | Second-year class advisor |
-| 2026/27 | Comprehensive German III, Comprehensive German IV | Second-year class advisor |
+| 2018-2021 | Comprehensive German I, Comprehensive German II | First-year class advisor |
+| 2021-2027 | Comprehensive German III, Comprehensive German IV | Second-year class advisor |
 
 ### Student Supervision and Class Advising
 
@@ -147,28 +142,3 @@ Institutional research database ("Conferences attended"), in chronological order
 | 2018/19 | Secretary, National Proficiency Test Centre for German Majors (Band 8) |
 
 ---
-
-<!--
-TRANSLATION AND EDITORIAL NOTES (not rendered on GitHub)
-
-Institutional names verified against official English pages:
-- 北京外国语大学德语学院 = School of German Studies, BFSU (de.bfsu.edu.cn; BFSU contact list). Before March 2019 it was the Department of German — hence the different wording in Education vs. Appointment.
-- 柏林自由大学政治学院 = Otto Suhr Institute for Political Science (OSI), Freie Universität Berlin. Sandschneider's full first name (Eberhard) confirmed.
-- 汉堡联邦国防军大学 = Helmut Schmidt University / University of the Federal Armed Forces Hamburg; Michael Staack is Professor of Political Science / International Relations there.
-- 浙江大学德国文化研究所 = Institute of German Culture, Zhejiang University (School of International Studies).
-- 中国社会科学院欧洲研究所 = Institute of European Studies (IES), Chinese Academy of Social Sciences (CASS).
-- 《德国研究》 official German title = Deutschland-Studien (Tongji University).
-- 《德语国家资讯与研究》 = Information und Forschung über deutschsprachige Länder (per BFSU School of German Studies English profile).
-- 外语教学与研究出版社 = FLTRP; 社会科学文献出版社 = Social Sciences Academic Press (China); 上海人民出版社 = Shanghai People's Publishing House.
-- 「陈梅洁帕特优秀教学奖」 is a BFSU award funded by the Chen Meijie Pate Fund for foundation-stage foreign-language teaching; the name is transliterated, not translated.
-
-Deliberate localisation choices (please review):
-1. Date of birth (March 1988) omitted — not customary in English-language academic CVs. Say the word and it goes back in.
-2. The Party-branch role (党支部宣传委员) is rendered neutrally as "Departmental service" — a literal translation would read as a political affiliation to international readers and is not standard in an academic CV. The Chinese version keeps the original wording.
-3. "Lecturer" kept as the literal BFSU title; US-equivalent framing ("Assistant Professor") deliberately avoided.
-4. "连队指导员" translated as counsellor in the summer military-training programme; consider dropping this line entirely for an international audience — it carries little academic weight.
-5. 「出彩」and「政冷经热」are free renderings; 「波兰代言人」as "Advocate for Poland" is interpretive. Adjust if you have established English titles.
-6. All Chinese publication titles are translations, not official English titles. If a journal provides an official English title, use it instead.
-
-Open items carried over from the Chinese version: name characters (孙嘉惠 vs 孙佳辉 — identical romanisation, so this file is unaffected), 2021/2022 dating of the Outstanding New Teacher Award, the 2023–2026 grant period, two competing monograph titles, and the two articles missing publication venues.
--->
